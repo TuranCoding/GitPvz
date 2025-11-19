@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 
 public class PeaBullet : MonoBehaviour
@@ -9,6 +10,7 @@ public class PeaBullet : MonoBehaviour
 
     void Start()
     {
+        Debug.Log("习惯就好");
 
     }
 
